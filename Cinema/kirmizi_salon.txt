@@ -1,0 +1,2 @@
+matine :3
+koltuk : 1

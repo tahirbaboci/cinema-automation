@@ -1,0 +1,2 @@
+ogrenci bileti : 1
+tam bilet : 0
